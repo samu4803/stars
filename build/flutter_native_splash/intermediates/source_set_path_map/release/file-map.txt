@@ -1,0 +1,12 @@
+net.jonhanson.flutter_native_splash-jetified-annotation-experimental-1.1.0-0 C:\Users\91815\.gradle\caches\transforms-3\37081f5775e70cbdd20dc6397f05f75b\transformed\jetified-annotation-experimental-1.1.0\res
+net.jonhanson.flutter_native_splash-core-1.6.0-1 C:\Users\91815\.gradle\caches\transforms-3\4e5ad1fc7d9e260f5ffc15cd2d562d93\transformed\core-1.6.0\res
+net.jonhanson.flutter_native_splash-jetified-window-java-1.0.0-beta04-2 C:\Users\91815\.gradle\caches\transforms-3\51cd90743e70edfefbb6d06eb4f0965f\transformed\jetified-window-java-1.0.0-beta04\res
+net.jonhanson.flutter_native_splash-jetified-window-1.0.0-beta04-3 C:\Users\91815\.gradle\caches\transforms-3\880a66cf4ae8ae026fee2686f16a9f93\transformed\jetified-window-1.0.0-beta04\res
+net.jonhanson.flutter_native_splash-main-4 C:\Users\91815\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_splash-2.3.4\android\src\main\res
+net.jonhanson.flutter_native_splash-release-5 C:\Users\91815\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_native_splash-2.3.4\android\src\release\res
+net.jonhanson.flutter_native_splash-pngs-6 E:\programs\flutter projects\stars\build\flutter_native_splash\generated\res\pngs\release
+net.jonhanson.flutter_native_splash-resValues-7 E:\programs\flutter projects\stars\build\flutter_native_splash\generated\res\resValues\release
+net.jonhanson.flutter_native_splash-rs-8 E:\programs\flutter projects\stars\build\flutter_native_splash\generated\res\rs\release
+net.jonhanson.flutter_native_splash-mergeReleaseResources-9 E:\programs\flutter projects\stars\build\flutter_native_splash\intermediates\incremental\release\mergeReleaseResources\merged.dir
+net.jonhanson.flutter_native_splash-mergeReleaseResources-10 E:\programs\flutter projects\stars\build\flutter_native_splash\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+net.jonhanson.flutter_native_splash-merged_res-11 E:\programs\flutter projects\stars\build\flutter_native_splash\intermediates\merged_res\release

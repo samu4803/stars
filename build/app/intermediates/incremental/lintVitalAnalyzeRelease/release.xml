@@ -1,0 +1,39 @@
+<variant
+    name="release"
+    package="com.example.stars"
+    minSdkVersion="21"
+    targetSdkVersion="33"
+    mergedManifest="E:\programs\flutter projects\stars\build\app\intermediates\merged_manifest\release\AndroidManifest.xml"
+    proguardFiles="E:\programs\flutter projects\stars\build\app\intermediates\default_proguard_files\global\proguard-android.txt-7.3.0;C:\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
+    partialResultsDir="E:\programs\flutter projects\stars\build\app\intermediates\lint_vital_partial_results\release\out"
+    desugaredMethodsFiles="C:\Users\91815\.gradle\caches\transforms-3\c63e0e728bb4f25a1393cec7ac5665c2\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifest="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin"
+        resDirectories="src\main\res"
+        assetsDirectories="src\main\assets"/>
+    <sourceProvider
+        manifest="src\release\AndroidManifest.xml"
+        javaDirectories="src\release\java;src\release\kotlin"
+        resDirectories="src\release\res"
+        assetsDirectories="src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="E:\programs\flutter projects\stars\build\app\intermediates\javac\release\classes;E:\programs\flutter projects\stars\build\app\tmp\kotlin-classes\release;E:\programs\flutter projects\stars\build\app\kotlinToolingMetadata;E:\programs\flutter projects\stars\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.example.stars"
+      generatedSourceFolders="E:\programs\flutter projects\stars\build\app\generated\ap_generated_sources\release\out;E:\programs\flutter projects\stars\build\app\generated\aidl_source_output_dir\release\out;E:\programs\flutter projects\stars\build\app\generated\source\buildConfig\release;E:\programs\flutter projects\stars\build\app\generated\renderscript_source_output_dir\release\out"
+      generatedResourceFolders="E:\programs\flutter projects\stars\build\app\generated\res\rs\release;E:\programs\flutter projects\stars\build\app\generated\res\resValues\release">
+  </mainArtifact>
+</variant>

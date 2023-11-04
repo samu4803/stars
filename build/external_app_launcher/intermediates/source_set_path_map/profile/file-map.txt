@@ -1,0 +1,12 @@
+com.example.launchexternalapp.external_app_launcher-jetified-window-1.0.0-beta04-0 C:\Users\91815\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.launchexternalapp.external_app_launcher-jetified-annotation-experimental-1.1.0-1 C:\Users\91815\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.launchexternalapp.external_app_launcher-core-1.6.0-2 C:\Users\91815\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.launchexternalapp.external_app_launcher-jetified-window-java-1.0.0-beta04-3 C:\Users\91815\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.launchexternalapp.external_app_launcher-main-4 C:\Users\91815\AppData\Local\Pub\Cache\hosted\pub.dev\external_app_launcher-3.1.0\android\src\main\res
+com.example.launchexternalapp.external_app_launcher-profile-5 C:\Users\91815\AppData\Local\Pub\Cache\hosted\pub.dev\external_app_launcher-3.1.0\android\src\profile\res
+com.example.launchexternalapp.external_app_launcher-pngs-6 E:\programs\flutter projects\stars\build\external_app_launcher\generated\res\pngs\profile
+com.example.launchexternalapp.external_app_launcher-resValues-7 E:\programs\flutter projects\stars\build\external_app_launcher\generated\res\resValues\profile
+com.example.launchexternalapp.external_app_launcher-rs-8 E:\programs\flutter projects\stars\build\external_app_launcher\generated\res\rs\profile
+com.example.launchexternalapp.external_app_launcher-mergeProfileResources-9 E:\programs\flutter projects\stars\build\external_app_launcher\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.example.launchexternalapp.external_app_launcher-mergeProfileResources-10 E:\programs\flutter projects\stars\build\external_app_launcher\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.example.launchexternalapp.external_app_launcher-merged_res-11 E:\programs\flutter projects\stars\build\external_app_launcher\intermediates\merged_res\profile

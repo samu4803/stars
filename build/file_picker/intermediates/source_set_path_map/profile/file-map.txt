@@ -1,0 +1,13 @@
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-1.0.0-beta04-0 C:\Users\91815\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-annotation-experimental-1.1.0-1 C:\Users\91815\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.mr.flutter.plugin.filepicker.file_picker-core-1.6.0-2 C:\Users\91815\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.mr.flutter.plugin.filepicker.file_picker-jetified-window-java-1.0.0-beta04-3 C:\Users\91815\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.mr.flutter.plugin.filepicker.file_picker-main-4 C:\Users\91815\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\src\main\res
+com.mr.flutter.plugin.filepicker.file_picker-profile-5 C:\Users\91815\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-5.5.0\android\src\profile\res
+com.mr.flutter.plugin.filepicker.file_picker-pngs-6 E:\programs\flutter projects\stars\build\file_picker\generated\res\pngs\profile
+com.mr.flutter.plugin.filepicker.file_picker-resValues-7 E:\programs\flutter projects\stars\build\file_picker\generated\res\resValues\profile
+com.mr.flutter.plugin.filepicker.file_picker-rs-8 E:\programs\flutter projects\stars\build\file_picker\generated\res\rs\profile
+com.mr.flutter.plugin.filepicker.file_picker-mergeProfileResources-9 E:\programs\flutter projects\stars\build\file_picker\intermediates\incremental\profile\mergeProfileResources\merged.dir
+com.mr.flutter.plugin.filepicker.file_picker-mergeProfileResources-10 E:\programs\flutter projects\stars\build\file_picker\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+com.mr.flutter.plugin.filepicker.file_picker-merged_res-11 E:\programs\flutter projects\stars\build\file_picker\intermediates\merged_res\profile
+com.mr.flutter.plugin.filepicker.file_picker-packaged_res-12 E:\programs\flutter projects\stars\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\profile

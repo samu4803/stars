@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.stars.app-mergeReleaseResources-28:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\91815\\.gradle\\caches\\transforms-3\\a4175fabf50e468ee203197ea6ebdb4e\\transformed\\appcompat-1.0.0\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

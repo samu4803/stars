@@ -1,0 +1,13 @@
+io.flutter.plugins.camera.camera_android-jetified-annotation-experimental-1.1.0-0 C:\Users\91815\.gradle\caches\transforms-3\37081f5775e70cbdd20dc6397f05f75b\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.camera.camera_android-core-1.6.0-1 C:\Users\91815\.gradle\caches\transforms-3\4e5ad1fc7d9e260f5ffc15cd2d562d93\transformed\core-1.6.0\res
+io.flutter.plugins.camera.camera_android-jetified-window-java-1.0.0-beta04-2 C:\Users\91815\.gradle\caches\transforms-3\51cd90743e70edfefbb6d06eb4f0965f\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.camera.camera_android-jetified-window-1.0.0-beta04-3 C:\Users\91815\.gradle\caches\transforms-3\880a66cf4ae8ae026fee2686f16a9f93\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.camera.camera_android-main-4 C:\Users\91815\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+8\android\src\main\res
+io.flutter.plugins.camera.camera_android-release-5 C:\Users\91815\AppData\Local\Pub\Cache\hosted\pub.dev\camera_android-0.10.8+8\android\src\release\res
+io.flutter.plugins.camera.camera_android-pngs-6 E:\programs\flutter projects\stars\build\camera_android\generated\res\pngs\release
+io.flutter.plugins.camera.camera_android-resValues-7 E:\programs\flutter projects\stars\build\camera_android\generated\res\resValues\release
+io.flutter.plugins.camera.camera_android-rs-8 E:\programs\flutter projects\stars\build\camera_android\generated\res\rs\release
+io.flutter.plugins.camera.camera_android-mergeReleaseResources-9 E:\programs\flutter projects\stars\build\camera_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.camera.camera_android-mergeReleaseResources-10 E:\programs\flutter projects\stars\build\camera_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.camera.camera_android-merged_res-11 E:\programs\flutter projects\stars\build\camera_android\intermediates\merged_res\release
+io.flutter.plugins.camera.camera_android-packaged_res-12 E:\programs\flutter projects\stars\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release

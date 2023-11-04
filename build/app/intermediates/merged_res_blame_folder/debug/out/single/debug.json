@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-v21_background.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-v21\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\raw_splash_screen.json.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\raw\\splash_screen.json"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-xxxhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-xxxhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-xxhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-xxhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-mdpi_android12splash.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-mdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-night-xhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-night-xhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-xhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-xhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-hdpi_android12splash.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-hdpi\\android12splash.png"
+    },
+    {
+        "merged": "com.example.stars.app-merged_res-30:/drawable-v21_background.png.flat",
+        "source": "com.example.stars.app-main-24:/drawable-v21/background.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-night-mdpi_android12splash.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-night-mdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-night-hdpi_android12splash.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-night-hdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\layout_splash_view.xml.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\layout\\splash_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-night-xxhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-night-xxhdpi\\android12splash.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-v21_launch_background.xml.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-v21\\launch_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-merged_res-30:\\drawable-night-xxxhdpi_android12splash.png.flat",
+        "source": "C:\\Users\\91815\\.gradle\\daemon\\7.5\\com.example.stars.app-main-24:\\drawable-night-xxxhdpi\\android12splash.png"
+    }
+]

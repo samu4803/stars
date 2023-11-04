@@ -1,0 +1,1 @@
+E:\programs\flutter projects\stars\android\app\src\main\kotlin\com\example\stars\MainActivity.kt

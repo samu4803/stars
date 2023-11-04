@@ -1,0 +1,16 @@
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-1.0.0-beta04-0 C:\Users\91815\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-basement-18.1.0-1 C:\Users\91815\.gradle\caches\transforms-3\58aa1384bde170d075503b845cfcf44c\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-annotation-experimental-1.1.0-2 C:\Users\91815\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-firebase-common-20.3.3-3 C:\Users\91815\.gradle\caches\transforms-3\6f9fa5902813f78de2aefcdfcdb180f7\transformed\jetified-firebase-common-20.3.3\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-core-1.6.0-4 C:\Users\91815\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-play-services-base-18.0.1-5 C:\Users\91815\.gradle\caches\transforms-3\aba8f806953ea3dd8f794da3aeb78a12\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-jetified-window-java-1.0.0-beta04-6 C:\Users\91815\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-main-7 C:\Users\91815\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.9.1\android\src\main\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-profile-8 C:\Users\91815\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-4.9.1\android\src\profile\res
+io.flutter.plugins.firebase.firestore.cloud_firestore-pngs-9 E:\programs\flutter projects\stars\build\cloud_firestore\generated\res\pngs\profile
+io.flutter.plugins.firebase.firestore.cloud_firestore-resValues-10 E:\programs\flutter projects\stars\build\cloud_firestore\generated\res\resValues\profile
+io.flutter.plugins.firebase.firestore.cloud_firestore-rs-11 E:\programs\flutter projects\stars\build\cloud_firestore\generated\res\rs\profile
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeProfileResources-12 E:\programs\flutter projects\stars\build\cloud_firestore\intermediates\incremental\profile\mergeProfileResources\merged.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-mergeProfileResources-13 E:\programs\flutter projects\stars\build\cloud_firestore\intermediates\incremental\profile\mergeProfileResources\stripped.dir
+io.flutter.plugins.firebase.firestore.cloud_firestore-merged_res-14 E:\programs\flutter projects\stars\build\cloud_firestore\intermediates\merged_res\profile
+io.flutter.plugins.firebase.firestore.cloud_firestore-packaged_res-15 E:\programs\flutter projects\stars\build\firebase_core\intermediates\packaged_res\profile

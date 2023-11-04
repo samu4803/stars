@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.stars.app-mergeDebugResources-28:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "E:\\programs\\flutter projects\\stars\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "from": {
+                        "startLines": "3,16",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,974",
+                        "endLines": "9,18",
+                        "endColumns": "12,12",
+                        "endOffsets": "623,1138"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,510",
+                        "endLines": "8,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "505,674"
+                    }
+                }
+            ]
+        }
+    ]
+}

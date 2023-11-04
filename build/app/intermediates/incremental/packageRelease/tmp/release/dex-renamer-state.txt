@@ -1,0 +1,7 @@
+#Thu Nov 02 21:31:19 IST 2023
+base.0=E\:\\programs\\flutter projects\\stars\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+base.1=E\:\\programs\\flutter projects\\stars\\build\\app\\intermediates\\dex\\release\\mergeDexRelease\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
